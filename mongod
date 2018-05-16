@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-
-# start mongo in the backgrond
-mongod --fork --logpath /var/log/mongod.log
